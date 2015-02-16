@@ -1,0 +1,14 @@
+CS3130
+Assignment 3
+Janelle Montgomery
+
+Server Protocol
+
+The server is set up on a local host and port 1060. 
+When a user is online they will see the message on the server side and will be allowed to respond once before the connection is terminated.
+
+ex.)
+Janelle says : Hey :)
+Respond with : Hello how are you?
+
+The server user must wait for a reply before sending another message.
